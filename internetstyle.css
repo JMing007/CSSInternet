@@ -1,0 +1,243 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 970px;
+    height: 1000px;
+    
+    margin: 50px 0px 0px 50px;
+}
+.top-header{
+    width: 970px;
+    height: 80px;
+    display: inline-block;
+}
+.top-header img{
+    width: 100px;
+    height: auto;
+    vertical-align: top;
+    
+}
+.top-header h1{
+    display: inline-block;
+    font-size: 45px;
+    margin-top: 25px;
+    color:#474747;
+    letter-spacing: 2px;
+}
+.sub-header h2{
+    letter-spacing: 2px;
+}
+.top-header span{
+    color:#3471a6;
+}
+.sub-header{
+    width: 970px;
+    height: 55px;
+    background-image: linear-gradient(#24669e,#4c80ab, #24669e);
+    margin-top: 3px;
+}
+.sub-header h2{
+    font-size: 28px;
+    line-height: 55px;
+    margin-left: 20px;
+    color: white;
+}
+.main-body{
+    width: 970px;
+    height: 800px;
+    background-image:linear-gradient(#e4e4e4,#ffffff,#ffffff,#ffffff);
+    display: inline-block;
+    
+}
+.left-top{
+    width: 201px;
+    height: 200px;
+    margin-left: 2px;
+    display: inline-block;
+    margin-top: 25px;
+    border-bottom: 2px solid #b9b9b9
+}
+.left-top-style{
+    color:#3471a6;
+}
+.left-top p{
+    font-weight: bold;
+}
+
+.internet-word{
+    color: red;
+}
+.top-button{
+    color:white;
+    background-image:linear-gradient( #669ac5, #29689e);
+    padding: 7px 45px;
+    border-radius: 6px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px #868f97;
+}
+.bottom-button{
+    color:white;
+    background-image:linear-gradient(#eba94e, #dc781c);
+    padding: 7px 34px;
+    border-radius: 6px;
+    margin-top: 5px;
+    box-shadow: 2px 2px 2px #868f97;
+}
+
+.bottom-left{
+    width: 201px;
+    height: 290px;
+    box-shadow: 3px 3px 3px #868f97;
+    margin-top: -290px;
+}
+.matrix {
+    width:201px;
+    height: auto;
+}
+.bottom-left h2{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    margin-top: -275px;
+    padding: 3px;
+}
+.ninjapic{
+    width: 85px;
+    height: auto;
+    margin-left: 55px;
+}
+.learn-more-button{
+    color:white;
+    background-image:linear-gradient( #70cfdf, #01bedc);
+    padding: 5px 40px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-left: 25px;
+    box-shadow: 3px 3px 3px #1c2936;
+}
+.top-dns{
+    width: 340px;
+    height: 62px;
+    display: inline-block;
+    vertical-align: top;
+    border-bottom: 2px solid #b9b9b9;
+    margin-left: 40px;
+    
+}
+.contact{
+    width: 368px;
+    height: 62px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 340px;
+    margin-top: -31px;
+    border-bottom: 2px solid #b9b9b9;
+
+}
+.contact img{
+    width: 45px;
+    height: auto;
+    margin-left: 165px;
+    margin-top: 10px;
+}
+.contact-info{
+    vertical-align: top;
+    margin-left: 225px;
+    margin-top: -56px;
+    line-height: 20px;
+
+}
+.contact-info p{
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-info h2{
+    font-size: 24px;
+    color: #2ac8e1;
+    display: inline-block;
+}
+.dns-logo{
+    width: 20px;
+    height: auto;
+    margin-top: 7px;
+    display:inline-block;
+}
+.top-dns a{
+    color: #4b80ad;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 9px;
+}
+
+
+.clientservers{
+    width: 720px;
+    height: 485px;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -162px;
+}
+.clientservers h2{
+    color: #2c6ca2;
+    margin-top: 5px;
+}
+.clientservers p{
+    font-size: 16px;
+    display: inline-block;
+}
+.clientservers ul{
+    padding: 5px 10px 10px 40px;
+    font-size: 16px;
+    display: inline-block;
+}
+.clientservers img{
+    width: 275px;
+    height: auto;
+    margin-left: 225px;
+    display: inline-block;
+
+}
+.clientservers ol{
+    padding: 5px 10px 10px 40px;
+    font-size: 16px;
+    display: inline-block;
+}
+.clientservers span{
+    color: #45b4c5;
+}
+.bottom-content{
+    width: 700px;
+    height: 140px;
+    margin-left: 250px;
+    border-top: 4px solid #0085e0;
+    border-left: 4px solid #0085e0;
+    border-right: 4px solid #0085e0;
+}
+.bottom-content img{
+    width: 125px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.bottom-content h2{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: #2769a0;
+
+}
+.bottom-content p{
+    padding-left: 150px;
+    padding-right: 30px;    
+    margin-top: -85px;
+    margin-left: 14px;
+}
+.bottom-content a{
+    color: #1fa8bb;
+    text-decoration: none;
+}
